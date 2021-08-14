@@ -20,4 +20,5 @@ Techincal Accomplishments:
 Sole developer / designer (and tester.) 
 Built from client request to design and assign quizzes. Extended to include simple ticket system, locations (managed by client) and employee database.
 
-[https://images.ctfassets.net/9gf3vakh3ucr/4U6J34QjsrWeusBrJ9Q5uk/9bbc6b5aa019c5202020ade8a50c46a5/rpm.jpg](https://s3.us-west-1.wasabisys.com/portfolio3400/sitevideos/rpm_portal.mp4)
+[![Project Video](https://images.ctfassets.net/9gf3vakh3ucr/4U6J34QjsrWeusBrJ9Q5uk/9bbc6b5aa019c5202020ade8a50c46a5/rpm.jpg)](https://s3.us-west-1.wasabisys.com/portfolio3400/sitevideos/rpm_portal.mp4)
+
