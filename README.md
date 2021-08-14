@@ -8,12 +8,13 @@ Skills overview and code examples for prospective clients.
 
 Sole developer / designer (and tester.)
 
-A complete rebuild of the MagicHorseAuction.com (no code reused) auction website build in react (nextjs) and a nodejs backend. (MERN stack)
+A complete rebuild of the MagicHorseAuction.com auction website build in react (nextjs) and a nodejs backend. (MERN stack) No code reused - previous platform was wordpress + plugins.
 Over 700k in sales in first 6 months of launch.
 
 Techincal Accomplishments:
 
 - Imported / converting the over 3k users from SQL to the new Mongo DB (old wordpress passwords not carried over)
+- No theme used - built on top of react-bootstrap
 - Bidding page uses websockets to update price / bid history in realtime
 - Stripe integration (creating invoices with stripe hosted payment page for completed auctions)
 - Twilio / Mailgun integrations for text / email notifications respectively
@@ -25,3 +26,25 @@ Sole developer / designer (and tester.)
 Built from client request to design and assign quizzes. Extended to include simple ticket system, locations (managed by client) and employee database.
 
 [![Project Video](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/RPMPortal_video.jpg?raw=true)](https://s3.us-west-1.wasabisys.com/portfolio3400/sitevideos/rpm_portal.mp4)
+
+# My Open Source Projects
+
+## Drizop
+
+React file drop component, including image previews and loading progress bar:
+https://github.com/tri-bit/drizop
+![alt text](https://github.com/tri-bit/drizop/blob/master/docs/images/drizop_07.png?raw=true "Example2")
+
+## React Json Previewr
+
+React object contents previwer:
+https://github.com/tri-bit/react-json-previewer
+![alt text](https://github.com/tri-bit/react-json-previewer/blob/master/docs/intro_image.png?raw=true "Example")
+
+# Code Examples
+
+Magic Horse Auctions related tools / examples
+
+- toadd users importer
+- toadd bidder testing tool
+- toadd s3 archiver
