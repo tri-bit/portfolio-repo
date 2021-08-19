@@ -52,5 +52,10 @@ Node + Puppeteer project than runs bidding scripts on debug auctions, checks exp
 
 https://github.com/tri-bit/portfolio-repo/tree/main/examples/mha/tools/auctiontester
 
-- toadd user importer
+## SQL Exporter CLI Tool:
+
+Node CLI tool to connect to SQL server and export previous site's wordpress user data. (For conversion into MongoDB)
+
+https://github.com/tri-bit/portfolio-repo/tree/main/examples/mha/tools/sqlexporter
+
 - toadd s3 archiver

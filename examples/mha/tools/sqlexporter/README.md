@@ -1,6 +1,6 @@
 ## SQLExporter Tool
 
-Written to export user/auction/bid data from the previous MHA website and prep it for upload to new site's MongoDB database
+Written to export user data from the previous MHA website and prep it for upload to new site's MongoDB database
 
 ## Importing Users
 
