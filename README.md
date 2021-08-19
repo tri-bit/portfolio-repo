@@ -46,6 +46,11 @@ https://github.com/tri-bit/react-json-previewer
 
 Magic Horse Auctions related tools / examples
 
-- toadd users importer
-- toadd bidder testing tool
+## Bidder Testing Tool:
+
+Node + Puppeteer project than runs bidding scripts on debug auctions, checks expected values and logs test results. Up to 5 virtual bidders at once.
+
+https://github.com/tri-bit/portfolio-repo/tree/main/examples/mha/tools/auctiontester
+
+- toadd user importer
 - toadd s3 archiver
