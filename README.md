@@ -36,7 +36,7 @@ https://github.com/tri-bit/drizop
 ![alt text](https://github.com/tri-bit/drizop/blob/master/docs/images/drizop_07.png?raw=true "Example2")
 ![alt text](https://github.com/tri-bit/drizop/blob/master/docs/images/drizop_02.png?raw=true "Example2")
 
-## React Json Previewr
+## React Json Previewer
 
 React javascript object contents previewer:
 https://github.com/tri-bit/react-json-previewer
