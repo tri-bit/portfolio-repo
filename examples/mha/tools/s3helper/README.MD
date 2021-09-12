@@ -32,9 +32,4 @@ uploadFiles({
 | DOWNLOADPATH | Local machine archive destination
 
 
-## Todos, possible features
-* Max concurrent downloads started when possible (instead of only 1 per check)
-* Seperate index code from examples?
-
-
 
