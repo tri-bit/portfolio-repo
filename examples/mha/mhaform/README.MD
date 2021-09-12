@@ -1,5 +1,5 @@
 # MHAForm
-Two react components: MHAInput and MHAForm used to build [react-bootstrap] (https://github.com/react-bootstrap/react-bootstrap) compatible forms in the Magic Horse Auction project.
+Two react components: MHAInput and MHAForm used to build [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) compatible forms in the Magic Horse Auction project.
 
 ## Features
 - Build form from array of inputs
@@ -8,5 +8,5 @@ Two react components: MHAInput and MHAForm used to build [react-bootstrap] (http
 
 ## MHAInput Dependencies
 - [Slate](https://github.com/ianstormtaylor/slate) for more complex word processing (MHAText.js)
-- [React Widgets](https://github.com/jquense/react-widgets) for Date / Time picker (Picker.js)
+- [React Widgets](https://github.com/jquense/react-widgets) for Date / Time picker (MHAPicker.js)
 

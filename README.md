@@ -58,11 +58,15 @@ Node CLI tool to connect to SQL server and export previous site's wordpress user
 
 https://github.com/tri-bit/portfolio-repo/tree/main/examples/mha/tools/sqlexporter
 
-- toadd s3 archiver
-
 ## Form Builder React Components
 
 Builds form from array - features & code:
 
 https://github.com/tri-bit/portfolio-repo/tree/main/examples/mha/mhaform
+
+## S3 Helper
+
+Helper tool to archive S3 buckets and upload local directory to specific 'directory' in the S3 bucket:
+
+https://github.com/tri-bit/portfolio-repo/tree/main/examples/mha/tools/s3helper
 
