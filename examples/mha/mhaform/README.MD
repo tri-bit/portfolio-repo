@@ -7,6 +7,6 @@ Two react components: MHAInput and MHAForm used to build [react-bootstrap](https
 - Validation options
 
 ## MHAInput Dependencies
-- [Slate](https://github.com/ianstormtaylor/slate) for more complex word processing (MHAText.js)
+- [Slate](https://github.com/ianstormtaylor/slate) for more complex word processing (MHATextEditor.js)
 - [React Widgets](https://github.com/jquense/react-widgets) for Date / Time picker (MHAPicker.js)
 
