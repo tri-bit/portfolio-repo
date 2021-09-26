@@ -74,19 +74,27 @@ https://github.com/tri-bit/portfolio-repo/tree/main/examples/mha/tools/s3helper
 While my goals are primarily developer oriented I do have experience creating website designs **without themes.** (Primarily in Webflow.) While I do create custom elements in photoshop, etc when needed I am not a traditional logo/graphic designer.
 
 ## Rocking M Ranch
+https://www.rockingmranchdistillery.com/
 Product photography by Ren Risner.
+
 [![Website Thumbnail](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/rockingmranch.png?raw=true)](https://www.rockingmranchdistillery.com/)
 
 ## I.d.e.a. WF
+https://www.ideawf.com/
 Graphics sourced from Adobe Stock.
+
 [![Website Thumbnail](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/ideawf.png?raw=true)](https://www.ideawf.com/)
 
 ## Starbrite Cleaners
+http://starbritecleanerstx.com/
 This is a old (2015) site but I'm proud of the dynamic layout. (Wordpress platform, site theme basically ignored,  with alot of jQuery to create the dynamic layout/animation.)
+
 [![Website Thumbnail](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/starbrite.png?raw=true)](http://starbritecleanerstx.com/)
 
 ## RPM Storage Management (Main Site)
+https://www.rpmstoragemanagement.com/
 In addition to svg icon animations (using anime.js) I coded a custom tachometer animation used on the homepage.
+
 [![Website Thumbnail](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/rpmstorage.png?raw=true)](https://www.rpmstoragemanagement.com/)
 
 
