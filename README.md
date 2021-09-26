@@ -75,9 +75,7 @@ While my goals are primarily developer oriented I do have experience creating we
 Below are examples of sites I have designed:
 
 [![Website Thumbnail](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/kennys_smaller.png?raw=true)](https://www.kennysseasonings.com/)
-
 [![Website Thumbnail](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/kennys_smaller.png?raw=true)](https://www.kennysseasonings.com/)
-
 [![Website Thumbnail](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/kennys_smaller.png?raw=true)](https://www.kennysseasonings.com/)
 
 todo: #rpmmanagement
