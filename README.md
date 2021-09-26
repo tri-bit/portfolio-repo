@@ -70,3 +70,12 @@ Helper tool to archive S3 buckets and upload local directory to specific 'direct
 
 https://github.com/tri-bit/portfolio-repo/tree/main/examples/mha/tools/s3helper
 
+# Design examples
+While my goals are primarily developer oriented I do have experience create website designs without themes. (Primarily in Webflow.)
+Below are examples of sites I have designed:
+https://www.kennysseasonings.com/
+![alt text](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/kennys.png?raw=true "Example")
+https://www.kennysseasonings.com/
+![alt text](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/kennys.png?raw=true "Example")
+https://www.kennysseasonings.com/
+![alt text](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/kennys.png?raw=true "Example")
