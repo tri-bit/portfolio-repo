@@ -90,7 +90,7 @@ Graphics sourced from Adobe Stock.
 ## Starbrite Cleaners
 http://starbritecleanerstx.com/
 
-This is a old (2015) site but I'm proud of the dynamic layout. (Wordpress platform, site theme basically ignored,  with alot of jQuery to create the dynamic layout/animation.)
+This is a old (2015) site but I'm proud of the dynamic layout. (Wordpress platform, site theme basically ignored,  with alot of jQuery to create the dynamic layout/animation.) Starbrite logo by Stephen Fleming.
 
 [![Website Thumbnail](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/starbrite.png?raw=true)](http://starbritecleanerstx.com/)
 
