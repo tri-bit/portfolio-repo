@@ -9,7 +9,7 @@ Skills overview and code examples for prospective clients.
 Sole developer / designer (and tester.)
 
 A complete rebuild of the MagicHorseAuction.com auction website build in react (nextjs) and a nodejs backend. (MERN stack) No code reused - previous platform was wordpress + plugins.
-Over 700k in sales in first 6 months of launch.
+Over 900k in sales in first 7 months of launch.
 
 Techincal Accomplishments:
 
@@ -71,16 +71,23 @@ Helper tool to archive S3 buckets and upload local directory to specific 'direct
 https://github.com/tri-bit/portfolio-repo/tree/main/examples/mha/tools/s3helper
 
 # Design examples
-While my goals are primarily developer oriented I do have experience creating website designs without themes. (Primarily in Webflow.)
-Below are examples of sites I have designed:
+While my goals are primarily developer oriented I do have experience creating website designs **without themes.** (Primarily in Webflow.) While I do create custom elements in photoshop, etc when needed I am not a traditional logo/graphic designer.
 
-[![Website Thumbnail](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/kennys_smaller.png?raw=true)](https://www.kennysseasonings.com/)
-[![Website Thumbnail](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/kennys_smaller.png?raw=true)](https://www.kennysseasonings.com/)
-[![Website Thumbnail](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/kennys_smaller.png?raw=true)](https://www.kennysseasonings.com/)
+## Rocking M Ranch
+Product photography by Ren Risner.
+[![Website Thumbnail](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/rockingmranch.png?raw=true)](https://www.rockingmranchdistillery.com/)
 
-todo: #rpmmanagement
-todo: #s-qubed?
-todo: #rockingmranch
+## I.d.e.a. WF
+Graphics sourced from Adobe Stock.
+[![Website Thumbnail](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/ideawf.png?raw=true)](https://www.ideawf.com/)
+
+## Starbrite Cleaners
+This is a old (2015) site but I'm proud of the dynamic layout. (Wordpress platform, site theme basically ignored,  with alot of jQuery to create the dynamic layout/animation.)
+[![Website Thumbnail](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/starbrite.png?raw=true)](http://starbritecleanerstx.com/)
+
+## RPM Storage Management (Main Site)
+In addition to svg icon animations (using anime.js) I coded a custom tachometer animation used on the homepage.
+[![Website Thumbnail](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/rpmstorage.png?raw=true)](https://www.rpmstoragemanagement.com/)
 
 
 
