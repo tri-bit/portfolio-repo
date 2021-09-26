@@ -71,11 +71,19 @@ Helper tool to archive S3 buckets and upload local directory to specific 'direct
 https://github.com/tri-bit/portfolio-repo/tree/main/examples/mha/tools/s3helper
 
 # Design examples
-While my goals are primarily developer oriented I do have experience create website designs without themes. (Primarily in Webflow.)
+While my goals are primarily developer oriented I do have experience creating website designs without themes. (Primarily in Webflow.)
 Below are examples of sites I have designed:
-https://www.kennysseasonings.com/
-![alt text](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/kennys.png?raw=true "Example")
-https://www.kennysseasonings.com/
-![alt text](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/kennys.png?raw=true "Example")
-https://www.kennysseasonings.com/
-![alt text](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/kennys.png?raw=true "Example")
+
+[![Website Thumbnail](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/kennys_smaller.png?raw=true)](https://www.kennysseasonings.com/)
+
+[![Website Thumbnail](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/kennys_smaller.png?raw=true)](https://www.kennysseasonings.com/)
+
+[![Website Thumbnail](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/kennys_smaller.png?raw=true)](https://www.kennysseasonings.com/)
+
+todo: #rpmmanagement
+todo: #s-qubed?
+todo: #rockingmranch
+
+
+
+
