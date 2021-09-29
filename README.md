@@ -76,8 +76,7 @@ https://github.com/tri-bit/portfolio-repo/tree/main/examples/mha/tools/s3helper
 # Unity Game Development
 In the first half of the 2010s I solo developed several mobile games in C# using the unity engine.
 
-Trailer for one of my android/iphone games 'Diamondback' (2012):
-https://s3.us-west-1.wasabisys.com/portfolio3400/sitevideos/Diamondback_Trailer_Web.mp4
+[Trailer for one of my android/iphone games 'Diamondback' (2012)](https://s3.us-west-1.wasabisys.com/portfolio3400/sitevideos/Diamondback_Trailer_Web.mp4)
 
 
 # Design examples
