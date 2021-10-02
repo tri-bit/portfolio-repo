@@ -20,5 +20,6 @@ node exporter -eu <user count>
 
 ### 3. Import users using both exported files into mongo database
 See below for the importerTool.js (server side magichorseauction.com) code that references the two exported files and creates mongoDB user documents for the production database.
-View here: https://github.com/tri-bit/portfolio-repo/blob/main/examples/mha/mha%20user%20import/importerTool.js
+
+View here: https://github.com/tri-bit/portfolio-repo/blob/main/examples/mha/mhauserimport/importerTool.js
 
