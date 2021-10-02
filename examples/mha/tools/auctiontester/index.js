@@ -10,10 +10,3 @@ const { getDebugAuctionDetails } = require("./src/pageUtils");
 
 const { runAuctionScript } = require("./src/auctionScriptRunner");
 
-//run script example
-/*
-runAuctionScript({
-  auction: "60da78f3b468b703628c920d",
-  auctionScript: scripts.basic4Bidder,
-});
-*/
