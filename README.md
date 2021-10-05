@@ -72,6 +72,7 @@ https://github.com/tri-bit/portfolio-repo/tree/main/examples/mha/mhaform
 
 Helper tool to archive S3 buckets and upload local directory to specific 'directory' in the S3 bucket. I may eventualy release as an standalone github repo / npm package (after a bit more testing - it's only been used on Digital Ocean's S3 compatible plaform so far.)
 
+Example showing required field warning after attempted form submission:
 https://github.com/tri-bit/portfolio-repo/tree/main/examples/mha/tools/s3helper
 
 
