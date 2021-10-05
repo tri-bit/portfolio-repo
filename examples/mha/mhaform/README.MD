@@ -1,7 +1,7 @@
 # MHAForm
 Two react components: MHAInput and MHAForm used to build [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) compatible forms in the Magic Horse Auction project.
 
-Example showing required field form validation correctly warning/blocking form submission attempt:
+Example showing the form validation correctly warning/blocking form submission attempt because of Labeled Input's *required:true* property:
 
 ![alt text](https://github.com/tri-bit/portfolio-repo/blob/main/examples/mha/mhaform/media/MHAForm01.png?raw=true "Example")
 

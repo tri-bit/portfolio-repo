@@ -66,7 +66,7 @@ Builds form from array - features & code:
 
 https://github.com/tri-bit/portfolio-repo/tree/main/examples/mha/mhaform
 
-Example showing required field form validation correctly warning/blocking form submission attempt:
+Example showing the form validation correctly warning/blocking form submission attempt because of Labeled Input's *required:true* property:
 
 ![alt text](https://github.com/tri-bit/portfolio-repo/blob/main/examples/mha/mhaform/media/MHAForm01.png?raw=true "Example")
 
