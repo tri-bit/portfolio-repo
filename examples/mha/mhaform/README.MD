@@ -22,7 +22,7 @@ Not every form type supports every type of additional property, validation, etc.
 const demoFormInputs = [
 
         { label:'Text Input', description:`I'm some input description.`},
-        { label:'Labeled Input', type:'labeledinput', required:'true' },
+        { label:'Labeled Input', type:'labeledinput', required:true },
         { label:'Form Switch', type:'switch'},
         { label:'Divider', type:'divider'},
         { label:'Test Dropdown', type:'dropdown', options: [
