@@ -5,6 +5,7 @@ Skills overview and code examples for prospective clients.
 # Production projects & code examples
 
 ## Magic Horse Auction - MERN Stack
+[https://magichorseauction.com/](https://magichorseauction.com/)
 
 Sole developer / designer (and tester.)
 
@@ -19,7 +20,7 @@ Techincal Accomplishments:
 - Twilio / Mailgun integrations for text / email notifications respectively
 - Imported / converting the over 3k users from SQL to the new Mongo DB (old wordpress passwords not carried over)
 - User classified ads system
-- Internal Banner Ad system with impression / click tracking
+- Internal banner bd system with impression / click tracking
 
 ![screenshot 1](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/MagicHorseAuction-screenshot1.jpg)
 
