@@ -18,7 +18,10 @@ Techincal Accomplishments:
 - Bidding page uses websockets to update price / bid history in realtime
 - Stripe integration (creating invoices with stripe hosted payment page for completed auctions)
 - Twilio / Mailgun integrations for text / email notifications respectively
-- User classified ads system just released
+- User classified ads system
+- Internal Banner Ad system with impression / click tracking
+
+![screenshot 1](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/MagicHorseAuction-screenshot1.jpg)
 
 ## RPM Employee Portal - MERN Stack
 
