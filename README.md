@@ -8,16 +8,16 @@ Skills overview and code examples for prospective clients.
 
 Sole developer / designer (and tester.)
 
-A complete rebuild of the MagicHorseAuction.com auction website build in react (nextjs) and a nodejs backend. (MERN stack) No code reused - previous platform was wordpress + plugins.
+A complete rebuild of the MagicHorseAuction.com auction website built in react (nextjs) with a nodejs backend. (MERN stack) No code reused - previous platform was wordpress + plugins.
 Over 900k in sales in first 7 months of launch.
 
 Techincal Accomplishments:
 
-- Imported / converting the over 3k users from SQL to the new Mongo DB (old wordpress passwords not carried over)
 - No theme used - built on top of react-bootstrap
 - Bidding page uses websockets to update price / bid history in realtime
 - Stripe integration (creating invoices with stripe hosted payment page for completed auctions)
 - Twilio / Mailgun integrations for text / email notifications respectively
+- Imported / converting the over 3k users from SQL to the new Mongo DB (old wordpress passwords not carried over)
 - User classified ads system
 - Internal Banner Ad system with impression / click tracking
 
