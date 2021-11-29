@@ -22,7 +22,8 @@ Techincal Accomplishments:
 - User classified ads system
 - Internal banner bd system with impression / click tracking
 
-![screenshot 1](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/MagicHorseAuction-screenshot1.jpg)
+![screenshot 1](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/MagicHorseAuction-screenshot2.jpg)
+![screenshot 2](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/MagicHorseAuction-screenshot1.jpg)
 
 ## RPM Employee Portal - MERN Stack
 
