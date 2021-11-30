@@ -12,8 +12,6 @@ Sole developer / designer (and tester.)
 A complete rebuild of the MagicHorseAuction.com auction website built in react (nextjs) with a nodejs backend. (MERN stack) No code reused - previous platform was wordpress + plugins.
 Over 900k in sales in first 7 months of launch.
 
-Techincal Accomplishments:
-
 - No theme used - built on top of react-bootstrap
 - Bidding page uses websockets to update price / bid history in realtime
 - Stripe integration (creating invoices with stripe hosted payment page for completed auctions)
