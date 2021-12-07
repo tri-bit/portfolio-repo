@@ -19,7 +19,7 @@ Over 900k in sales in first 7 months of launch.
 - Stripe integration (creating invoices with stripe hosted payment page for completed auctions)
 - Twilio / Mailgun integrations for text / email notifications respectively
 - Imported / converting the over 3k users from SQL to the new Mongo DB (old wordpress passwords not carried over)
-- User classified ads system
+- User classified ads system (in beta)
 - Internal banner bd system with impression / click tracking
 
 ![screenshot 1](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/MagicHorseAuction-screenshot2.jpg)
