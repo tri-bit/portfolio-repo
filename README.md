@@ -30,9 +30,9 @@ Over 900k in sales in first 7 months of launch.
 Sole developer / designer (and tester.)
 Built from client request to design and assign quizzes. Extended to include simple ticket system, locations (managed by client) and employee database.
 
-[Portal Demo Video](https://s3.us-west-1.wasabisys.com/portfolio3400/sitevideos/rpm_portal.mp4)
+[Portal Demo Video](https://media55.sfo2.cdn.digitaloceanspaces.com/portfolio/media/rpm_portal.mp4)
 
-[![Project Video](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/RPMPortal_video.jpg?raw=true)](https://s3.us-west-1.wasabisys.com/portfolio3400/sitevideos/rpm_portal.mp4)
+[![Project Video](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/RPMPortal_video.jpg?raw=true)](https://media55.sfo2.cdn.digitaloceanspaces.com/portfolio/media/rpm_portal.mp4)
 
 # My Open Source Projects
 
