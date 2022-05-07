@@ -105,7 +105,7 @@ https://http://northsidegrillwf.com/
 
 Photography by Ren Risner.
 
-[![Website Thumbnail](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/northsidegrill.png?raw=true)](https://http://northsidegrillwf.com/)
+[![Website Thumbnail](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/northsidegrill.png?raw=true)](https://northsidegrillwf.com/)
 
 ## Rocking M Ranch
 https://www.rockingmranchdistillery.com/
