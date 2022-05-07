@@ -98,7 +98,7 @@ While my goals are primarily developer oriented I do have experience creating we
 ## Twisted Smith Designs
 https://www.twistedsmithdesigns.com
 
-[![Website Thumbnail](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/twistsmithdesigns.png?raw=true)](https://www.twistedsmithdesigns.com)
+[![Website Thumbnail](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/twistedsmithdesigns.png?raw=true)](https://www.twistedsmithdesigns.com)
 
 ## Northside Grill
 https://http://northsidegrillwf.com/
