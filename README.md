@@ -95,6 +95,18 @@ In the first half of the 2010s I solo developed several mobile games in C# using
 # Design examples
 While my goals are primarily developer oriented I do have experience creating website designs **without themes.** (Primarily in Webflow.) While I do create custom elements in photoshop, etc when needed I am not a traditional logo/graphic designer.
 
+## Twisted Smith Designs
+https://www.twistedsmithdesigns.com
+
+[![Website Thumbnail](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/twistsmithdesigns.png?raw=true)](https://www.twistedsmithdesigns.com)
+
+## Northside Grill
+https://http://northsidegrillwf.com/
+
+Photography by Ren Risner.
+
+[![Website Thumbnail](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/northsidegrill.png?raw=true)](https://http://northsidegrillwf.com/)
+
 ## Rocking M Ranch
 https://www.rockingmranchdistillery.com/
 
@@ -109,19 +121,19 @@ Graphics sourced from Adobe Stock.
 
 [![Website Thumbnail](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/ideawf.png?raw=true)](https://www.ideawf.com/)
 
-## Starbrite Cleaners
-http://starbritecleanerstx.com/
-
-This is a old (2015) site but I'm proud of the dynamic layout. (Wordpress platform, site theme basically ignored,  with alot of jQuery to create the dynamic layout/animation.) Starbrite logo by Stephen Fleming.
-
-[![Website Thumbnail](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/starbrite.png?raw=true)](http://starbritecleanerstx.com/)
-
 ## RPM Storage Management (Main Site)
 https://www.rpmstoragemanagement.com/
 
 In addition to svg icon animations (using anime.js) I coded a custom tachometer animation used on the homepage.
 
 [![Website Thumbnail](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/rpmstorage.png?raw=true)](https://www.rpmstoragemanagement.com/)
+
+## Starbrite Cleaners
+http://starbritecleanerstx.com/
+
+This is a old (2015) site but I'm proud of the dynamic layout. (Wordpress platform, site theme basically ignored,  with alot of jQuery to create the dynamic layout/animation.) Starbrite logo by Stephen Fleming.
+
+[![Website Thumbnail](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/starbrite.png?raw=true)](http://starbritecleanerstx.com/)
 
 
 
