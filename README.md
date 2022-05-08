@@ -9,17 +9,17 @@ Contact: jim@jimwelch*dot*dev
 ## Magic Horse Auction - MERN Stack
 [https://magichorseauction.com/](https://magichorseauction.com/)
 
-Sole developer / designer (and tester.)
+Sole developer / designer / tester.
 
 A complete rebuild of the MagicHorseAuction.com auction website built in react (nextjs) with a nodejs backend. (MERN stack) No code reused - previous platform was wordpress + plugins.
-Over 900k in sales in first 7 months of launch.
+Over 2m invoiced in first 14 months of launch.
 
 - No theme used - built on top of react-bootstrap
 - Bidding page uses websockets to update price / bid history in realtime
 - Stripe integration (creating invoices with stripe hosted payment page for completed auctions)
 - Twilio / Mailgun integrations for text / email notifications respectively
 - Imported / converting the over 3k users from SQL to the new Mongo DB (old wordpress passwords not carried over)
-- User classified ads system (in beta)
+- User classified ads system
 - Internal banner bd system with impression / click tracking
 
 ![screenshot 1](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/MagicHorseAuction-screenshot2.jpg)
@@ -33,6 +33,16 @@ Built from client request to design and assign quizzes. Extended to include simp
 [Portal Demo Video](https://media55.sfo2.cdn.digitaloceanspaces.com/portfolio/media/rpm_portal.mp4)
 
 [![Project Video](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/RPMPortal_video.jpg?raw=true)](https://media55.sfo2.cdn.digitaloceanspaces.com/portfolio/media/rpm_portal.mp4)
+
+
+## BISD World - React SPA / Node backend
+[https://www.bisd.world/](https://www.bisd.world/)
+
+School District's site that displays submitted alumni information.
+- Three.js 3D rotatable globe display (via react-three-fiber)
+- Frontend pulls alumni data via GraphQL queries, plotting points on the globe by the received latitude & longitude
+
+![screenshot 1](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/BISDWorld-screenshot1.jpg)
 
 # My Open Source Projects
 
