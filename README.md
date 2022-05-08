@@ -38,7 +38,8 @@ Built from client request to design and assign quizzes. Extended to include simp
 ## BISD World - React SPA / Node backend
 [https://www.bisd.world/](https://www.bisd.world/)
 
-School District's site that displays submitted alumni information.
+School district website that displays submitted alumni information. 3D Globe mesh asset via Sketchfab.
+
 - Three.js 3D rotatable globe display (via react-three-fiber)
 - Frontend pulls alumni data via GraphQL queries, plotting points on the globe by the received latitude & longitude
 
