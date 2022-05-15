@@ -16,6 +16,7 @@ Over 2m invoiced in first 14 months of launch.
 
 - No theme used - built on top of react-bootstrap
 - Bidding page uses websockets to update price / bid history in realtime
+- Admin auction cms, also allows admin to delete bids (made in user error) and recalculate
 - Stripe integration (creating invoices with stripe hosted payment page for completed auctions)
 - Twilio / Mailgun integrations for text / email notifications respectively
 - Imported / converting the over 3k users from SQL to the new Mongo DB (old wordpress passwords not carried over)
