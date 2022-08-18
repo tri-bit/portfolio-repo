@@ -48,9 +48,10 @@ School district website that displays submitted alumni information. 3D Globe mes
 
 
 ## Pulse Projects DB - NextJs + React Three Fiber
+[https://pdb.pls.live-hosting.xyz/](https://pdb.pls.live-hosting.xyz/)
 
 Personal crpyto themed experimental site with WebGL (react-three-fiber) background.
-[https://pdb.pls.live-hosting.xyz/](https://pdb.pls.live-hosting.xyz/)
+
 
 ![screenshot 1](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/Pdb-screenshot1.jpg)
 
