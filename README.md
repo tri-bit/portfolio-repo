@@ -7,6 +7,7 @@ Contact: jim@jimwelch*dot*dev
 # Production projects & code examples
 
 ## Magic Horse Auction - MERN Stack
+
 [https://magichorseauction.com/](https://magichorseauction.com/)
 
 Sole developer / designer / tester.
@@ -35,8 +36,8 @@ Built from client request to design and assign quizzes. Extended to include simp
 
 [![Project Video](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/RPMPortal_video.jpg?raw=true)](https://media55.sfo2.cdn.digitaloceanspaces.com/portfolio/media/rpm_portal.mp4)
 
-
 ## BISD World - React SPA / Node backend
+
 [https://www.bisd.world/](https://www.bisd.world/)
 
 School district website that displays submitted alumni information. 3D Globe mesh asset via Sketchfab.
@@ -46,15 +47,13 @@ School district website that displays submitted alumni information. 3D Globe mes
 
 ![screenshot 1](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/BISDWorld-screenshot1.jpg)
 
-
 ## Pulse Projects DB - NextJs + React Three Fiber
+
 [https://pdb.pls.live-hosting.xyz/](https://pdb.pls.live-hosting.xyz/)
 
 Personal crpyto themed experimental site with WebGL (react-three-fiber) background.
 
-
 ![screenshot 1](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/Pdb-screenshot1.jpg)
-
 
 # My Open Source Projects
 
@@ -97,7 +96,7 @@ Builds form from array - features & code:
 
 https://github.com/tri-bit/portfolio-repo/tree/main/examples/mha/mhaform
 
-Example showing the form validation correctly warning/blocking form submission attempt because of Labeled Input's *required:true* property:
+Example showing the form validation correctly warning/blocking form submission attempt because of Labeled Input's _required:true_ property:
 
 ![alt text](https://github.com/tri-bit/portfolio-repo/blob/main/examples/mha/mhaform/media/MHAForm01.png?raw=true "Example")
 
@@ -107,22 +106,30 @@ Helper tool to archive S3 buckets and upload local directory to specific 'direct
 
 https://github.com/tri-bit/portfolio-repo/tree/main/examples/mha/tools/s3helper
 
-
 # Unity Game Development
+
 In the first half of the 2010s I solo developed several mobile games in C# using the unity engine.
 
 [Trailer for one of my android/iphone games 'Diamondback' (2012)](https://media55.sfo2.cdn.digitaloceanspaces.com/portfolio/media/Diamondback_Trailer_Web.mp4)
 
-
 # Design examples
+
 While my goals are primarily developer oriented I do have experience creating website designs **without themes.** (Primarily in Webflow.) While I do create custom elements in photoshop, etc when needed I am not a traditional logo/graphic designer.
 
+## Designworks Group (Current Employer)
+
+https://www.designworksgroup.com/
+
+[![Website Thumbnail](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/designworksgroup.png?raw=true)](https://www.designworksgroup.com/)
+
 ## Twisted Smith Designs
+
 https://www.twistedsmithdesigns.com
 
 [![Website Thumbnail](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/twistedsmithdesigns.png?raw=true)](https://www.twistedsmithdesigns.com)
 
 ## Rocking M Ranch
+
 https://www.rockingmranchdistillery.com/
 
 Product photography by Ren Risner.
@@ -130,6 +137,7 @@ Product photography by Ren Risner.
 [![Website Thumbnail](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/rockingmranch.png?raw=true)](https://www.rockingmranchdistillery.com/)
 
 ## I.d.e.a. WF
+
 https://www.ideawf.com/
 
 Graphics sourced from Adobe Stock.
@@ -137,6 +145,7 @@ Graphics sourced from Adobe Stock.
 [![Website Thumbnail](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/ideawf.png?raw=true)](https://www.ideawf.com/)
 
 ## RPM Storage Management (Main Site)
+
 https://www.rpmstoragemanagement.com/
 
 In addition to svg icon animations (using anime.js) I coded a custom tachometer animation used on the homepage.
@@ -144,12 +153,9 @@ In addition to svg icon animations (using anime.js) I coded a custom tachometer 
 [![Website Thumbnail](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/rpmstorage.png?raw=true)](https://www.rpmstoragemanagement.com/)
 
 ## Starbrite Cleaners
+
 http://starbritecleanerstx.com/
 
-This is a old (2015) site but I'm proud of the dynamic layout. (Wordpress platform, site theme basically ignored,  with alot of jQuery to create the dynamic layout/animation.) Starbrite logo by Stephen Fleming.
+This is a old (2015) site but I'm proud of the dynamic layout. (Wordpress platform, site theme basically ignored, with alot of jQuery to create the dynamic layout/animation.) Starbrite logo by Stephen Fleming.
 
 [![Website Thumbnail](https://github.com/tri-bit/portfolio-repo/blob/main/media/images/designexamples/starbrite.png?raw=true)](http://starbritecleanerstx.com/)
-
-
-
-
